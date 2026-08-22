@@ -12,7 +12,7 @@ I'm currently a student<br>I'm insterested in learning more about coding<br>Want
 ![](https://github-readme-stats.shion.dev/api?username=Shaoni-satpati&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Shaoni-satpati&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shaoni-satpati&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-##Volunteering Experience
+# 🙋‍♂️ Volunteering Experience:
 | 📁 Designation | 🏢 Organization | 📆 Timeline |
 | :--- | :--- | :--- |
 | **Event Coordinator** | [Ureckon] | **FEB 2025 - MAR 2026** |
