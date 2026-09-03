@@ -25,9 +25,9 @@ I am a passionate student explorer on a mission to translate complex logic into 
 
 | 🚀 Event / Hackathon | 🛠️ Project Name | 📅 Timeline |
 | :--- | :--- | :--- |
-| **[CodeShield Cyber Hackathon]** | [SECURE IMAGE STEGANOGRAPHY TOOL] | [March,2026] |
-| **[Pivot Point Hackathon]** | [Truthlens] | [August,2026] |
-| **[Poster Competition]** | [Cyber Shield/2nd position] | [February,2026] |
+| **CodeShield Cyber Hackathon** | SECURE IMAGE STEGANOGRAPHY TOOL | [March,2026] |
+| **Pivot Point Hackathon** | Truthlens | [August,2026] |
+| **Poster Competition** | Cyber Shield/2nd position | [February,2026] |
 
 
 
