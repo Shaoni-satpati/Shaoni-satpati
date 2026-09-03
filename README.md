@@ -1,6 +1,11 @@
 ## Hi there 👋
-# 💫 About Me:
-I'm currently a student<br>I'm insterested in learning more about coding<br>Want to become a software engineer
+## 💫 About Me:
+I am a passionate student explorer on a mission to translate complex logic into elegant code. Currently diving deep into software development ecosystems, I like building things that live on the web and solving real-world puzzles through engineering.
+
+- 🎯 **Current Focus:** Leveling up my software development stacks.
+- ⚡ **Goal:** Building impact-driven, scalable technology.
+- 🌱 **Learning Philosophy:** Turning morning coffee into functional applications, one commit at a time.
+
 
 
 ## 🌐 Socials:
