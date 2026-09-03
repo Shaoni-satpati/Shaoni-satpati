@@ -7,7 +7,6 @@ I am a passionate student explorer on a mission to translate complex logic into 
 - 🌱 **Learning Philosophy:** Turning morning coffee into functional applications, one commit at a time.
 
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaoni-satpati-b59741317/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaonisatpati16@gmail.com) 
 
@@ -21,6 +20,15 @@ I am a passionate student explorer on a mission to translate complex logic into 
 | 📁 Designation | 🏢 Organization | 📆 Timeline |
 | :--- | :--- | :--- |
 | **Event Coordinator** | [Ureckon] | **FEB 2025 - MAR 2026** |
+
+## 🏆 Hackathons & Competitions
+
+| 🚀 Event / Hackathon | 🛠️ Project Name | 📅 Timeline |
+| :--- | :--- | :--- |
+| **[CodeShield Cyber Hackathon]** | [SECURE IMAGE STEGANOGRAPHY TOOL] | [March,2026] |
+| **[Pivot Point Hackathon]** | [Truthlens] | [August,2026] |
+| **[Poster Competition]** | [Cyber Shield/2nd position] | [February,2026] |
+
 
 
 ## 🏆 GitHub Trophies
